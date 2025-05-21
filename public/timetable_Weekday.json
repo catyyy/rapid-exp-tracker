@@ -1,0 +1,380 @@
+[
+    {
+        "trip_id": "Tokyu.Oimachi.136061.Weekday",
+        "arrival_time": "6:33:00",
+        "departure_time": "6:34:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.132061.Weekday",
+        "arrival_time": "6:52:00",
+        "departure_time": "6:52:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.134061.Weekday",
+        "arrival_time": "7:06:00",
+        "departure_time": "7:06:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.131071.Weekday",
+        "arrival_time": "7:19:00",
+        "departure_time": "7:19:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.136071.Weekday",
+        "arrival_time": "7:32:00",
+        "departure_time": "7:32:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.135071.Weekday",
+        "arrival_time": "7:40:00",
+        "departure_time": "7:41:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.132071.Weekday",
+        "arrival_time": "7:49:00",
+        "departure_time": "7:50:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.134071.Weekday",
+        "arrival_time": "7:58:00",
+        "departure_time": "7:59:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.133071.Weekday",
+        "arrival_time": "8:07:00",
+        "departure_time": "8:08:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.131081.Weekday",
+        "arrival_time": "8:16:00",
+        "departure_time": "8:17:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.136081.Weekday",
+        "arrival_time": "8:25:00",
+        "departure_time": "8:25:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.135081.Weekday",
+        "arrival_time": "8:34:00",
+        "departure_time": "8:34:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.132081.Weekday",
+        "arrival_time": "8:43:00",
+        "departure_time": "8:43:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.134081.Weekday",
+        "arrival_time": "8:56:00",
+        "departure_time": "8:56:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.133081.Weekday",
+        "arrival_time": "9:05:00",
+        "departure_time": "9:05:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.131091.Weekday",
+        "arrival_time": "9:18:00",
+        "departure_time": "9:18:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.135091.Weekday",
+        "arrival_time": "9:31:00",
+        "departure_time": "9:31:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.132091.Weekday",
+        "arrival_time": "9:38:00",
+        "departure_time": "9:39:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.134091.Weekday",
+        "arrival_time": "9:51:00",
+        "departure_time": "9:52:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.133101.Weekday",
+        "arrival_time": "10:07:00",
+        "departure_time": "10:08:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.135101.Weekday",
+        "arrival_time": "10:24:00",
+        "departure_time": "10:25:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.132101.Weekday",
+        "arrival_time": "10:37:00",
+        "departure_time": "10:37:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.134101.Weekday",
+        "arrival_time": "10:49:00",
+        "departure_time": "10:50:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.133111.Weekday",
+        "arrival_time": "11:09:00",
+        "departure_time": "11:10:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.135111.Weekday",
+        "arrival_time": "11:29:00",
+        "departure_time": "11:30:00",
+        "trip_headsign": "中央林間"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.134111.Weekday",
+        "arrival_time": "11:49:00",
+        "departure_time": "11:50:00",
+        "trip_headsign": "中央林間"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.133121.Weekday",
+        "arrival_time": "12:09:00",
+        "departure_time": "12:10:00",
+        "trip_headsign": "中央林間"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.132121.Weekday",
+        "arrival_time": "12:29:00",
+        "departure_time": "12:30:00",
+        "trip_headsign": "中央林間"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.131121.Weekday",
+        "arrival_time": "12:49:00",
+        "departure_time": "12:50:00",
+        "trip_headsign": "中央林間"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.135131.Weekday",
+        "arrival_time": "13:09:00",
+        "departure_time": "13:10:00",
+        "trip_headsign": "中央林間"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.134131.Weekday",
+        "arrival_time": "13:29:00",
+        "departure_time": "13:30:00",
+        "trip_headsign": "中央林間"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.133131.Weekday",
+        "arrival_time": "13:49:00",
+        "departure_time": "13:50:00",
+        "trip_headsign": "中央林間"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.132141.Weekday",
+        "arrival_time": "14:09:00",
+        "departure_time": "14:10:00",
+        "trip_headsign": "中央林間"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.131141.Weekday",
+        "arrival_time": "14:29:00",
+        "departure_time": "14:30:00",
+        "trip_headsign": "中央林間"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.135141.Weekday",
+        "arrival_time": "14:49:00",
+        "departure_time": "14:50:00",
+        "trip_headsign": "中央林間"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.134151.Weekday",
+        "arrival_time": "15:09:00",
+        "departure_time": "15:10:00",
+        "trip_headsign": "中央林間"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.133151.Weekday",
+        "arrival_time": "15:29:00",
+        "departure_time": "15:30:00",
+        "trip_headsign": "長津田"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.132151.Weekday",
+        "arrival_time": "15:49:00",
+        "departure_time": "15:50:00",
+        "trip_headsign": "長津田"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.131161.Weekday",
+        "arrival_time": "16:09:00",
+        "departure_time": "16:10:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.135161.Weekday",
+        "arrival_time": "16:27:00",
+        "departure_time": "16:27:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.134161.Weekday",
+        "arrival_time": "16:50:00",
+        "departure_time": "16:50:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.131171.Weekday",
+        "arrival_time": "17:06:00",
+        "departure_time": "17:07:00",
+        "trip_headsign": "長津田"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.135171.Weekday",
+        "arrival_time": "17:21:00",
+        "departure_time": "17:22:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.132171.Weekday",
+        "arrival_time": "17:36:00",
+        "departure_time": "17:37:00",
+        "trip_headsign": "長津田"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.134171.Weekday",
+        "arrival_time": "17:51:00",
+        "departure_time": "17:52:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.133181.Weekday",
+        "arrival_time": "18:06:00",
+        "departure_time": "18:07:00",
+        "trip_headsign": "長津田"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.135181.Weekday",
+        "arrival_time": "18:21:00",
+        "departure_time": "18:22:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.136181.Weekday",
+        "arrival_time": "18:36:00",
+        "departure_time": "18:37:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.131181.Weekday",
+        "arrival_time": "18:51:00",
+        "departure_time": "18:52:00",
+        "trip_headsign": "長津田"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.134191.Weekday",
+        "arrival_time": "19:06:00",
+        "departure_time": "19:07:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.132191.Weekday",
+        "arrival_time": "19:21:00",
+        "departure_time": "19:22:00",
+        "trip_headsign": "長津田"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.135191.Weekday",
+        "arrival_time": "19:36:00",
+        "departure_time": "19:37:00",
+        "trip_headsign": "長津田"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.136191.Weekday",
+        "arrival_time": "19:51:00",
+        "departure_time": "19:52:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.133201.Weekday",
+        "arrival_time": "20:06:00",
+        "departure_time": "20:07:00",
+        "trip_headsign": "長津田"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.134201.Weekday",
+        "arrival_time": "20:21:00",
+        "departure_time": "20:22:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.131201.Weekday",
+        "arrival_time": "20:36:00",
+        "departure_time": "20:37:00",
+        "trip_headsign": "長津田"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.136201.Weekday",
+        "arrival_time": "20:51:00",
+        "departure_time": "20:52:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.132211.Weekday",
+        "arrival_time": "21:06:00",
+        "departure_time": "21:07:00",
+        "trip_headsign": "長津田"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.134211.Weekday",
+        "arrival_time": "21:26:00",
+        "departure_time": "21:27:00",
+        "trip_headsign": "長津田"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.133211.Weekday",
+        "arrival_time": "21:46:00",
+        "departure_time": "21:47:00",
+        "trip_headsign": "長津田"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.136221.Weekday",
+        "arrival_time": "22:06:00",
+        "departure_time": "22:07:00",
+        "trip_headsign": "溝の口"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.131221.Weekday",
+        "arrival_time": "22:32:00",
+        "departure_time": "22:32:00",
+        "trip_headsign": "長津田"
+    },
+    {
+        "trip_id": "Tokyu.Oimachi.136231.Weekday",
+        "arrival_time": "23:07:00",
+        "departure_time": "23:08:00",
+        "trip_headsign": "中央林間"
+    }
+]
