@@ -7,6 +7,13 @@ interface Train {
   destination: string;
 }
 
+type RawTimetableItem = {
+  trip_id: string;
+  departure_time?: string;
+  trip_headsign?: string;
+  // 其它字段如 arrival_time 可选
+};
+
 function getNextTrain(timetable: Train[]): Train | null {
   const now = new Date();
   const nowMinutes = now.getHours() * 60 + now.getMinutes();
@@ -24,7 +31,7 @@ function getNextTrain(timetable: Train[]): Train | null {
   return next;
 }
 
-function convertRawTimetable(raw: any[]): Train[] {
+function convertRawTimetable(raw: RawTimetableItem[]): Train[] {
   return raw.map((item) => ({
     train: item.trip_id,
     departure: (item.departure_time || "").slice(0, 5),
