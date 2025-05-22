@@ -65,9 +65,9 @@ export default function Home() {
     const timetableType = getTimetableType(new Date());
     let file = "";
     if (direction === "okayamato_suzukake") {
-      file = `/timetable_${timetableType}.json`;
+      file = `timetable_${timetableType}.json`;
     } else {
-      file = `/timetable_reverse_${timetableType}.json`;
+      file = `timetable_reverse_${timetableType}.json`;
     }
     fetch(file, { cache: "no-store" })
       .then((res) => {
