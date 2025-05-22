@@ -75,7 +75,9 @@ export default function Home() {
         return res.json();
       })
       .then((data) => {
-        const trains = convertRawTimetable(data);
+        // 兼容 data 不是数组的情况
+        const rawArray = Array.isArray(data) ? data : [];
+        const trains = convertRawTimetable(rawArray);
         setTimetable(trains);
         setNextTrain(getNextTrain(trains));
       })
